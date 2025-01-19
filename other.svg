@@ -3,9 +3,9 @@
 
 <svg
    fill="#000000"
-   width="800px"
-   height="800px"
-   viewBox="0 0 1920 1920"
+   width="84.291451"
+   height="84.291451"
+   viewBox="0 0 202.29948 202.29948"
    version="1.1"
    id="svg12455"
    sodipodi:docname="other.svg"
@@ -27,23 +27,23 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.9592419"
-     inkscape:cx="295.51488"
-     inkscape:cy="224.71972"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:cx="-89.381"
+     inkscape:cy="31.764892"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12455" />
   <path
-     d="m 963.79478,609.65749 c -9.08554,0 -16.47715,7.3917 -16.47715,16.4772 0,9.0856 7.39161,16.4772 16.47715,16.4772 9.08555,0 16.47716,-7.3916 16.47716,-16.4772 0,-9.0855 -7.39161,-16.4772 -16.47716,-16.4772 z m 21.88789,-109.9996 H 941.9069 l 10.66109,96.6556 h 22.4536 z"
+     d="m 99.299684,145.98869 c -9.08554,0 -16.47715,7.3917 -16.47715,16.4772 0,9.0856 7.39161,16.4772 16.47715,16.4772 9.085546,0 16.477156,-7.3916 16.477156,-16.4772 0,-9.0855 -7.39161,-16.4772 -16.477156,-16.4772 z M 121.18757,35.989088 H 77.411804 l 10.66109,96.655602 h 22.453596 z"
      fill-rule="evenodd"
      id="path12453"
      style="fill:#d40000;fill-opacity:0.701031;stroke:#ff0000;stroke-width:3.6696;stroke-dasharray:none;stroke-opacity:1" />
   <circle
      style="fill:#000000;fill-opacity:0.1;stroke:#ff0000;stroke-width:6.92535;stroke-dasharray:none;stroke-opacity:1"
      id="path219-0-8"
-     cx="965.64484"
-     cy="564.81854"
+     cx="101.14974"
+     cy="101.14974"
      r="97.687065" />
 </svg>
